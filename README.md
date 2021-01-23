@@ -1,0 +1,2 @@
+# MapAppTest
+GoogleMapのモック
